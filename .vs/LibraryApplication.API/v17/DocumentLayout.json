@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\userservice\\passwordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\userservice\\passwordencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\libraryservice\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\libraryservice\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\libraryservice\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\libraryservice\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\bookservice\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\bookservice\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\service\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:service\\bookservice\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\domain\\book\\bookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:domain\\book\\bookvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\domain\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:domain\\book\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|c:\\users\\batau\\desktop\\practica\\libraryapplication.api\\domain\\user\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A6276-F5AE-4808-8EF9-69177CAAE18F}|LibraryApplication.API.csproj|solutionrelative:domain\\user\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\API\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\API\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "API\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T07:21:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:48:04.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\IUserService.cs",
+              "RelativeToolTip": "Service\\UserService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:47:59.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\BookService\\IBookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService\\IBookService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\BookService\\IBookService.cs",
+              "RelativeToolTip": "Service\\BookService\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:47:35.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\LibraryService\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Service\\LibraryService\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\LibraryService\\LibraryService.cs",
+              "RelativeToolTip": "Service\\LibraryService\\LibraryService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:46:57.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\LibraryService\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "Service\\LibraryService\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\LibraryService\\ILibraryService.cs",
+              "RelativeToolTip": "Service\\LibraryService\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:46:53.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordEncrypt.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\PasswordEncrypt.cs",
+              "RelativeDocumentMoniker": "Service\\UserService\\PasswordEncrypt.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\UserService\\PasswordEncrypt.cs",
+              "RelativeToolTip": "Service\\UserService\\PasswordEncrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:45:31.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\BookService\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService\\BookService.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Service\\BookService\\BookService.cs",
+              "RelativeToolTip": "Service\\BookService\\BookService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:28:41.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\Book\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Book\\Book.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\Book\\Book.cs",
+              "RelativeToolTip": "Domain\\Book\\Book.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:34:05.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookValidator.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\Book\\BookValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Book\\BookValidator.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\Book\\BookValidator.cs",
+              "RelativeToolTip": "Domain\\Book\\BookValidator.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwC8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:25:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\User\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\User\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\batau\\Desktop\\PRACTICA\\LibraryApplication.API\\Domain\\User\\UserValidator.cs",
+              "RelativeToolTip": "Domain\\User\\UserValidator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:02:26.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
