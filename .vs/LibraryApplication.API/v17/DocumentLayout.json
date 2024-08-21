@@ -79,8 +79,7 @@
               "RelativeToolTip": "Service\\UserService\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:48:04.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:48:04.473Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Service\\UserService\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:47:59.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:47:59.392Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Service\\BookService\\IBookService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:47:35.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:47:35.973Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Service\\LibraryService\\LibraryService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:46:57.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:46:57.978Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Service\\LibraryService\\ILibraryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:46:53.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:46:53.935Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "Service\\UserService\\PasswordEncrypt.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:45:31.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:45:31.538Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Service\\BookService\\BookService.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T06:28:41.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T06:28:41.031Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "Domain\\Book\\Book.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T05:34:05.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T05:34:05.306Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "Domain\\Book\\BookValidator.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAIwC8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T05:25:10.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T05:25:10.343Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "Domain\\User\\UserValidator.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T14:02:26.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T14:02:26.884Z"
             }
           ]
         }
